@@ -11,6 +11,6 @@ This project is designed to detect edges in hand images captured via a webcam or
 
 ## Installation 
 You need first to install these lib..
--pip install opencv-python.
--pip install numpy.
--pip install matplotlib.
+- pip install opencv-python.
+- pip install numpy.
+- pip install matplotlib.

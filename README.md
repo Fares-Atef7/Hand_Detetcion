@@ -10,7 +10,7 @@ This project is designed to detect edges in hand images captured via a webcam or
 - **Template matching**: Matches detected edges against a dataset of preprocessed images.
 
 ## Installation 
-you need first to install these lib ..
--pip install opencv-python
--pip install numpy
--pip install matplotlib
+You need first to install these lib..
+-pip install opencv-python.
+-pip install numpy.
+-pip install matplotlib.
